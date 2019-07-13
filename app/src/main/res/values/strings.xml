@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Andela Challenge</string>
+
+    //MainActivity layout
+    <string name="title_toolbar_main">ALC 4 Phase 1</string>
+    <string name="textview_welcome">Welcome to ALC 4.0</string>
+    <string name="btn_about">ABOUT ALC</string>
+    <string name="btn_profile">MY PROFILE</string>
+
+    //Activity A layout
+    <string name="title_toolbar_a">About ALC</string>
+
+    //Activity B layout
+    <string name="title_toolbar_b">My Profile</string>
+    <string name="textview_name">Rachid Insa</string>
+    <string name="textview_track">Track:   Android</string>
+    <string name="textview_country">Country:   Niger</string>
+    <string name="textview_email">Email:   r24.insa@gmail.com</string>
+    <string name="textview_phone">Phone Number:   233506013190</string>
+    <string name="textview_slack">Slack Username:   @rachidinsaissa</string>
+</resources>
