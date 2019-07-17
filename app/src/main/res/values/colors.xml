@@ -5,4 +5,11 @@
     <color name="colorAccent">#D81B60</color>
     <color name="andelaColor">#3359DF</color>
     <color name="andelaYellow">#FFAF30</color>
+
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#3359DF</color>
+    <color name="gradStart">#3359AE</color>
+    <color name="grey">#E5E5E5</color>
 </resources>

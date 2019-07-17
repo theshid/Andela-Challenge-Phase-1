@@ -9,7 +9,7 @@ import android.webkit.SslErrorHandler;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-public class ActivityA extends AppCompatActivity {
+public class AboutActivity extends AppCompatActivity {
 
     // SSL Error Tolerant Web View Client
     private class SSLWebViewClient extends WebViewClient {
@@ -28,7 +28,7 @@ public class ActivityA extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_a);
+        setContentView(R.layout.activity_about);
 
         initViews();
 

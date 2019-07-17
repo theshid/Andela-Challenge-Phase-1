@@ -7,15 +7,21 @@
     <string name="btn_about">ABOUT ALC</string>
     <string name="btn_profile">MY PROFILE</string>
 
-    //Activity A layout
+    //About Activity layout
     <string name="title_toolbar_a">About ALC</string>
 
-    //Activity B layout
+    //Profile Activity layout
     <string name="title_toolbar_b">My Profile</string>
     <string name="textview_name">Rachid Insa</string>
-    <string name="textview_track">Track:   Android</string>
-    <string name="textview_country">Country:   Niger</string>
-    <string name="textview_email">Email:   r24.insa@gmail.com</string>
-    <string name="textview_phone">Phone Number:   233506013190</string>
-    <string name="textview_slack">Slack Username:   @rachidinsaissa</string>
+    <string name="textview_track">Track</string>
+    <string name="track">Android</string>
+    <string name="textview_country">Country</string>
+    <string name="country">Niger</string>
+    <string name="textview_email">Email</string>
+    <string name="email">r24.insa@gmail.com</string>
+    <string name="textview_phone">Phone Number</string>
+    <string name="phone">(+233)506013190</string>
+    <string name="textview_slack">Slack Username</string>
+    <string name="slack">@rachidinsaissa</string>
+
 </resources>

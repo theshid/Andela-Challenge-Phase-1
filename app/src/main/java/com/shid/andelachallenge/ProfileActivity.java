@@ -5,8 +5,7 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-
-public class ActivityB extends AppCompatActivity {
+public class ProfileActivity extends AppCompatActivity {
 
     // toolbar
     Toolbar toolbar;
@@ -14,15 +13,15 @@ public class ActivityB extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_b);
+        setContentView(R.layout.activity_profile);
 
-            initViews();
+        initViews();
 
-            // add back arrow to toolbar
-            if (getSupportActionBar() != null) {
-                getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-                getSupportActionBar().setDisplayShowHomeEnabled(true);
-            }
+        // add back arrow to toolbar
+        if (getSupportActionBar() != null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+        }
     }
 
     private void initViews() {
